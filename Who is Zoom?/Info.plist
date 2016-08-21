@@ -30,8 +30,11 @@
 	<array>
 		<string>armv7</string>
 	</array>
+<<<<<<< HEAD
 	<key>UIRequiresFullScreen</key>
 	<true/>
+=======
+>>>>>>> 76ebca04c86ff2ad01192c10166e1eed73dfb304
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>

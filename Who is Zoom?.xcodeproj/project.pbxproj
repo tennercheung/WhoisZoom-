@@ -96,7 +96,11 @@
 				TargetAttributes = {
 					4339A1DF1C00301000C862D3 = {
 						CreatedOnToolsVersion = 7.1.1;
+<<<<<<< HEAD
 						DevelopmentTeam = 683CWVZX73;
+=======
+						DevelopmentTeam = VLS38ZAM46;
+>>>>>>> 76ebca04c86ff2ad01192c10166e1eed73dfb304
 					};
 				};
 			};
@@ -254,10 +258,17 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Who is Zoom?/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = "com.BionicCinema.Who-is-Zoom1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = "com.BionicCinema.Who-is-Zoom-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 2;
+>>>>>>> 76ebca04c86ff2ad01192c10166e1eed73dfb304
 			};
 			name = Debug;
 		};
@@ -269,10 +280,17 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "Who is Zoom?/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = "com.BionicCinema.Who-is-Zoom1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = "com.BionicCinema.Who-is-Zoom-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 2;
+>>>>>>> 76ebca04c86ff2ad01192c10166e1eed73dfb304
 			};
 			name = Release;
 		};

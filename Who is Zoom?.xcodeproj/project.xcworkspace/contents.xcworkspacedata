@@ -2,6 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
+<<<<<<< HEAD
       location = "self:">
+=======
+      location = "self:Who is Zoom?.xcodeproj">
+>>>>>>> 76ebca04c86ff2ad01192c10166e1eed73dfb304
    </FileRef>
 </Workspace>
